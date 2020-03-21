@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AmgadCalls&amp;Messages</string>
+    <string name="textView_phoneNumber">Phone Number:</string>
+    <string name="editText_phoneNumber">Enter Phone Number</string>
+    <string name="button_call">Call</string>
+    <string name="button_openPhoneToCall">Open Phone to Call</string>
+    <string name="button_sendMessage">Send Message</string>
+    <string name="button_send">Send</string>
+    <string name="button_openMessagesToSend">Open Messages to Send</string>
+    <string name="textView_message">Message:</string>
+    <string name="editText_message">Enter Message</string>
+    button_send
+</resources>
